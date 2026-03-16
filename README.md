@@ -11,7 +11,8 @@ S.No	Name of the Apparatus	Range	Quantity
 4	Bread Board		1
 5	Digital Ammeter	(0-200)mA	1
 6	Digital Voltmeter	(0-20)V DC	1
-7	Connecting Wires	As Required	
+7	Connecting Wires	As Required
+
 CIRCUIT DIAGRAM:
 
 ![img](11.PNG.jpeg)
@@ -32,5 +33,6 @@ PRECAUTIONS:
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
+
 RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
